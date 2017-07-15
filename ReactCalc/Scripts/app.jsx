@@ -119,6 +119,7 @@
         function afterChange() { this._refreshDisplay(); this._changeState(numState); });
     }
 
+
     _onFractional()
     {
         if (!this.state.isNum1Fractional)
